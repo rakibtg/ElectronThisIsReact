@@ -1,7 +1,7 @@
 {
-  "name": "Diod",
+  "name": "ElectronThisIsReact",
   "version": "1.0.0",
-  "description": "A finder for hackers",
+  "description": "Electron This Is React",
   "main": "main.js",
   "scripts": {
     "start": "electron main.js",
